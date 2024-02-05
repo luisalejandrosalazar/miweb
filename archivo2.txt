@@ -1,2 +1,1 @@
-NUevo archivo 2
-Otra linea en archivo 2
+Primera linea en archivo 2
